@@ -1,5 +1,11 @@
 # AngularCrash
 
+
+![image](https://github.com/rir7890/ToDoList_Angular/assets/98277620/915f59d1-0689-456b-9d12-0f63081b7866)
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
 ## Development server
